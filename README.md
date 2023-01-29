@@ -16,5 +16,7 @@ Learning curves:
 And hence for the above reasons I choose CNN model to be the final model for sentiment analysis.
 
 References:
+
 [1]. http://ai.stanford.edu/~amaas/data/sentiment/
+
 [2]. https://www.datarobot.com/blog/using-machine-learning-for-sentiment-analysis-a-deep-dive/
